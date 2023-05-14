@@ -1,4 +1,4 @@
-# Logitceh G27 Schematics
+# Logitech G27 Schematics
 This is an effort to document to schematic for a Logitech G27 Racing wheel
 
 The schematics are designed in Kicad
